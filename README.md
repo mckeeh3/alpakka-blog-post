@@ -102,7 +102,6 @@ but we'll see how it works in more detail as follows.
 ### Details of the example
 
 Again the full code example can be found [here](https://github.com/richardimaoka/alpakka-blog-post/tree/master/src/main/java/com/example).
-Again the full code example can be found [here](https://github.com/richardimaoka/alpakka-blog-post/tree/master/src/main/java/com/example).
 
 To go through the example code, you firstly need to add following import statements,
 
@@ -253,6 +252,7 @@ Row[536, 35, John]
 
 ### More realistic `CassandraSource` examples
 
+This is good stuff. Keep it.
 This section is in progress. Should it be omitted as the article is getting too long??
 
 - filtering, when you cannot express filtering criteria as CQL (e.g.) it changes by user
